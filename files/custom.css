@@ -1,1 +1,221 @@
 
+.container {
+    /* set the dimensions of the container */
+    width: 100%;
+    height: auto;
+  }
+#hbackground{
+  
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+  padding-top:17%; 
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+.row1{
+    width: 100%;
+    height: 600px;
+    padding: 0px 20px;
+    text-align: center;
+    margin-left: -15px;
+    margin-right: -15px;
+    color: white;
+
+
+}
+
+.row1 h1 h3{
+    padding-top: 10%;
+    position: relative;
+    font-weight: bold;
+}
+
+.row1 p{ font-size: 12px;}
+
+.row{
+    text-align: center;
+}
+.para1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    font-weight:300;
+    text-align: center;
+}
+
+.para2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 70px 0px 5px 0px;
+    
+}
+#delaniLogo{
+  margin-top: 5%;
+  margin-bottom: 70px;
+  width: 60px;
+  height: 60px;;
+}
+
+#mouse_click {
+  
+  padding-top : 70px;
+  margin-top: 10%;
+  padding-bottom: 5px; 
+  
+}
+
+.row3 {
+    text-align: center;
+    width: 100%;
+    background-size: cover;
+    padding: 15px 20px;
+    color: white;
+    font-size: 12px;
+    max-width: 100%;
+    height:100%;
+    
+  }
+
+  .row4{
+    width: 100%;
+    height: 300px;
+    margin-right: -20px;
+    margin-left: -20px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 0px;
+  }
+
+  .row5, .row6{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap:wrap;
+    flex-wrap:wrap;
+    flex-direction: row-reverse;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    margin-bottom: 30px;
+
+  }
+
+  .row7{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    background-size: cover;
+
+  }
+
+  .row7 h3{
+    color: #fff;
+    padding-top: 20px;
+  }
+
+  input[type=email],input[type=text]{
+    width: 100%;
+    background: rgba(0,0,0,0.10);
+    color: #fff;
+    border-radius: 1px dotted #fff;
+    border-radius: 5px;
+    margin: 5px;
+    font-weight: bold;
+    
+  }
+
+input::placeholder,textarea::placeholder {
+  font-weight: normal;
+}
+
+
+
+  #messageInput{
+    width: 90%;
+  
+    background: rgba(0,0,0,0.10);
+    color: #fff;
+    border-radius: 1px dotted #fff;
+    border-radius: 5px;
+    margin: 5px;
+    font-weight: bold;
+  }
+
+  .toggleDesignLogo,.toggleDevLogo,.toggleProductLogo{
+    display: none;
+    text-align: center;
+    font-family: Signika Negative, sans-serif;
+  }
+  
+  #inlineDesign,#inlineDev,#inlineProduct,#inline {
+    text-align: center;
+  }
+  
+  .whatWeDo {
+    margin-top: 20px;
+    margin-right: -25px;
+    margin-left: -25px;
+    position: relative;
+  }
+
+  .whatWeDo h3 {
+    margin: 10px;
+    font-family: Signika Negative, sans-serif;
+    text-align: center;
+  }
+
+  .whatWeDo img {
+    margin-top: 40px;
+    height: 100px;
+    width: auto;
+    display: block;
+    margin: auto;
+    padding-top: 10%;
+  }
+
+  .portfolio {
+    position: relative;
+    width: 60%;
+    margin: auto;
+  }
+  
+  .portfolio h3 {
+    margin: 10px;
+    font-family: Signika Negative, sans-serif;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .portfolio img {
+    height: auto;
+    width: auto;
+    margin: auto;
+    display: block;
+    
+  }
+
+
+  .contactUs{
+    position: relative;
+    margin-top: 20px;
+  }
+ 
+  .footer{
+    height: 150px;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+  }
+  .footer ul li {
+    display: inline-block;
+    margin: 5px;
+  }
+
+  .submit {
+    float:inherit;
+    border-radius: 2px;
+  }
