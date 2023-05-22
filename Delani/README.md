@@ -1,1 +1,22 @@
-# IP3
+## Delani
+## About me
+Aron Kipyegon Ngetich is an Electrical engineer,He works with Safaricom PLC as field service engineer.
+## Author
+Ngetich Kipyegon Aron
+## About this project
+This project is about delani studio which is a video game.
+## Setup instructions
+- Git clone https://git@github.com:Aron-254/Delani.git/pulls
+- Open the github account
+- Go live
+
+## Technologies used
+- HTML
+- CSS
+- README
+- JavaScript
+
+## live Link 
+https://git@github.com:Aron-254/Delani.git
+## License
+(C)-2023 Aron Ngetich JS
