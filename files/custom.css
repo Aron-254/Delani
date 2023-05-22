@@ -103,7 +103,7 @@
   }
 
   .row7{
-    width: 100%;
+    width: 50%;
     height: 400px;
     text-align: center;
     background-size: cover;
@@ -112,7 +112,7 @@
 
   .row7 h3{
     color: #fff;
-    padding-top: 20px;
+    padding-top: 30px;
   }
 
   input[type=email],input[type=text]{
