@@ -1,4 +1,4 @@
-## AKAN NAME GENERATOR
+## DelaniStudio
 ## About me
 Aron Kipyegon Ngetich is an Electrical engineer,He works with Safaricom PLC as field service engineer.
 ## Author
